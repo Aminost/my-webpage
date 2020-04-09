@@ -1,0 +1,17 @@
+.header-section {
+  letter-spacing: normal;
+  border: 1px solid orange;
+  border-radius: 5px;
+  padding: 5px 10px 10px 10px;
+  background-color: rgb(0, 204, 153);
+  color: white; 
+}
+h5{
+ font-size: 13px;
+ letter-spacing: 3px;
+
+}
+h1{
+  margin:0;
+  
+}
